@@ -1,7 +1,5 @@
 # Project 3 — AI Tech Stack Recommender
 
-**DecodeLabs AI Internship | Batch 2026**
-
 ## Overview
 A content-based filtering recommendation engine that maps user skills
 to the most relevant tech career paths using TF-IDF and Cosine Similarity.
