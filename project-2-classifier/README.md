@@ -1,7 +1,4 @@
 # Project 2 — Iris KNN Classifier
-
-**DecodeLabs AI Internship | Batch 2026**
-
 ## Overview
 A supervised learning classification model built using the Iris benchmark dataset.
 Classifies flowers into 3 species using K-Nearest Neighbors algorithm.
