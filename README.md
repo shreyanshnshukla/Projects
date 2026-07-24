@@ -1,8 +1,6 @@
-# DecodeLabs AI Internship — Batch 2026
-
-**Intern:** Shreyansh Nandan Shukla
+#Projects
+Shreyansh Nandan Shukla
 **Domain:** Artificial Intelligence
-**Organization:** DecodeLabs
 
 ---
 
